@@ -1,0 +1,2 @@
+Total sum: 5005416
+Sum of even numbers: 2226438
